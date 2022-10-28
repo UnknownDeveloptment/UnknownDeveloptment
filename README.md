@@ -1,5 +1,5 @@
 # 👋🏻 Merhaba, Ben UnknownDev!
-Discord bot developer ve Web developerım , türkiyede öğrenciyim. <a href="https://github.com/UnknownDeveloptment/" rel="nofollow">Unknown Developtment</a>'ın sahibiyim. Siteme gitmek için <a href="https://info.hamzawasnotfound.tk/" rel="nofollow">tıkla!</a>
+Discord bot developer ve Web developerım , türkiyede öğrenciyim. <a href="https://github.com/UnknownDeveloptment/" rel="nofollow">Unknown Developtment</a>'in sahibiyim. Siteme gitmek için <a href="https://info.hamzawasnotfound.tk/" rel="nofollow">tıkla!</a>
 [![Discord Presence](https://lanyard.cnrad.dev/api/997469846725984266)](https://discord.com/users/997469846725984266)
 
 # 🌐 Sosyal Medya
