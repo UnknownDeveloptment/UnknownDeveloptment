@@ -9,4 +9,4 @@ Discord bot developer ve Web developerım , türkiyede öğrenciyim. <a href="ht
 <a href="https://github.com/UnknownDeveloptment"><img src="https://github-readme-stats.vercel.app/api?username=UnknownDeveloptment&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
 
 # 📀 Projelerimiz
-<a href="https://github.com/UnknownDeveloptment"
+<a href="https://github.com/UnknownDeveloptment/UnknownDeveloptment#projelerimiz"
