@@ -12,6 +12,28 @@
 
 [bot](https://bot.normalbirsite.tk/)
 
+
+
 # hamzawasnotfound.ml {İPTAL OLDU.}
 
 [info](https://info.hamzawasnotfound.ml/)
+
+
+
+# chormedino.gq {HALA AÇIK.}
+
+[aus](https://aus.chormedino.gq/)
+
+
+
+# hamzawasnotfound.tk {HALA AÇIK.}
+
+[info](https://info.hamzawasnotfound.tk/)
+
+
+
+# unknowndeveloptment.tk {HALA AÇIK.}
+
+[altyapilar](https://altyapilar.unknowndeveloptment.tk/)
+
+[telegram](https://telegram.unknowndeveloptment.tk/)
