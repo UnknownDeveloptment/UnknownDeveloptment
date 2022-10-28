@@ -1,6 +1,6 @@
 # 👋🏻 Merhaba, Ben UnknownDev!
 Discord bot developer ve Web developerım , türkiyede öğrenciyim. <a href="https://github.com/UnknownDeveloptment/" rel="nofollow">Unknown Developtment</a>'ın sahibiyim. Siteme gitmek için <a href="https://info.hamzawasnotfound.tk/" rel="nofollow">tıkla!</a>
-[![Discord Presence](https://lanyard.cnrad.dev/api/965400048752013312)](https://discord.com/users/965400048752013312)
+[![Discord Presence](https://lanyard.cnrad.dev/api/997469846725984266)](https://discord.com/users/997469846725984266)
 
 # 🌐 Sosyal Medya
  [![YouTube](https://img.shields.io/badge/Unknown-Developtment%20-323330.svg?&style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/channel/UCAFsFS2g8ZsHe6OkSalkt9Q) [![Instagram](https://img.shields.io/badge/hamzawasnotfound%20-323330.svg?&style=for-the-badge&logo=instagram&logoColor=FA3A88)](https://instagram.com/hamzawasnotfound)
