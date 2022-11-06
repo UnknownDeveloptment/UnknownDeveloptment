@@ -46,4 +46,4 @@
 
 [tr](https://tr.chaet.tk/)
 
-[en](https://en.cnhaet.tk/)
+[en](https://en.chaet.tk/)
