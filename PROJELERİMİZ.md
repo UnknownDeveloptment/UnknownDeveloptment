@@ -47,3 +47,10 @@
 [tr](https://tr.chaet.tk/)
 
 [en](https://en.chaet.tk/)
+
+
+
+# publicprojectbot.tk {İPTAL OLDU.}
+
+[aoijs](https://aoijs.publicprojectbot.tk/)
+
