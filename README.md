@@ -12,4 +12,6 @@ Discord bot developer ve Web developerım , türkiyede öğrenciyim. <a href="ht
 # 📀 Projelerimiz
 <a href="https://github.com/UnknownDeveloptment/UnknownDeveloptment/blob/main/PROJELERİMİZ.md/">Projlerimiz</a>
 
-<code><a href="https://www.javascript.com/#UnknownDeveloptment"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+# 🖥 Kullandığım Diller
+<code><a href="https://www.html.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code> <code><a href="https://www.html.com/"><img height="20" src="https://www.w3.org/html/logo/img/mark-word-icon.png"></a></code> <code><a href="https://www.nodejs.org/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/240px-Node.js_logo.svg.png"></a></code>
+
